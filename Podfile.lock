@@ -1,0 +1,24 @@
+PODS:
+  - FSTextView (1.8)
+  - IQKeyboardManager (6.0.3)
+  - SubscribeView (0.0.2)
+
+DEPENDENCIES:
+  - FSTextView (~> 1.8)
+  - IQKeyboardManager (= 6.0.3)
+  - SubscribeView (~> 0.0.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FSTextView
+    - IQKeyboardManager
+    - SubscribeView
+
+SPEC CHECKSUMS:
+  FSTextView: 9e2ca07bb6bb0fb7e77b49b2717adf81f3c620b5
+  IQKeyboardManager: c390e612f4b98c8fd748016470138537dc163ead
+  SubscribeView: 98620460c0a6da76a3d636bc74bd9a0386de162b
+
+PODFILE CHECKSUM: fa82ce218ed3bbde71261b98b8f395bf0e417813
+
+COCOAPODS: 1.5.2
