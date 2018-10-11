@@ -43,7 +43,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://lsclouddisk.oss-cn-beijing.aliyuncs.com/app/CXStudy-iPad%20Pro%20(12.9-inch)-etc.ipa</string>
+					<string>http://lsclouddisk.oss-cn-beijing.aliyuncs.com/app/CXStudy.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPad7,4</string>
@@ -77,7 +77,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://lsclouddisk.oss-cn-beijing.aliyuncs.com/app/CXStudy-iPhone%206%20Plus-etc.ipa</string>
+					<string>http://lsclouddisk.oss-cn-beijing.aliyuncs.com/app/CXStudy.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,2</string>
@@ -94,7 +94,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://lsclouddisk.oss-cn-beijing.aliyuncs.com/app/CXStudy-iPhone%20SE-etc.ipa</string>
+					<string>http://lsclouddisk.oss-cn-beijing.aliyuncs.com/app/CXStudy.ipa</string>
 					<key>variantIds</key>
 					<array>
 						<string>iPhone10,1</string>
